@@ -88,18 +88,18 @@ Or on Ubuntu:
 input :"A ticket examiner&#39;s swift response and preparedness to tackle a medical emergency saved
 an elderly passenger&#39;s life after he suffered a heart attack during a long-distance train journey."
 <br>
-![App Screenshot](https://github.com/dldiscomt/E-ILMT-EngMal/blob/main/OutputScreenshots/Picture1.jpg?raw=true)
+![App Screenshot](https://github.com/dldiscomt/E-ILMT-EngMal-V2/blob/main/OutputScreenshots/Picture1.jpg?raw=true)
 
 
 input :"BP Karn and his brother were travelling from Bihar&#39;s Darbhanga to Uttar Pradesh&#39;s Varanasi
 in a first-class coach of Pawan Express."
 <br>
-![App Screenshot ](https://github.com/dldiscomt/E-ILMT-EngMal/blob/main/OutputScreenshots/Picture2.jpg?raw=true)
+![App Screenshot ](https://github.com/dldiscomt/E-ILMT-EngMal-V2/blob/main/OutputScreenshots/Picture2.jpg?raw=true)
 
 
 input :"A cash prize has also been announced."
 <br>
-![App Screenshot](https://github.com/dldiscomt/E-ILMT-EngMal/blob/main/OutputScreenshots/Picture3.jpg?raw=true)
+![App Screenshot](https://github.com/dldiscomt/E-ILMT-EngMal-V2/blob/main/OutputScreenshots/Picture3.jpg?raw=true)
 
 
 ## Demo
